@@ -1,2 +1,4 @@
 # d3d9-hook-chams-wallhack
-d3d9 hook
+
+Ntdll.RtlEnterCriticalSection Hook
+DrawIndexedPrimitive를 재정의하여 호출합니다.
